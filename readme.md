@@ -26,7 +26,7 @@ Experienced and collaboration focused leader, has worked in the startup world fo
 * I'm a huge movie buff - some of my favorites are 2001: A Spacy Oddysey, Mulholland Drive, and Mandy.
 * I love all things Star Trek and Trek adjacenet (Stargate, Battlestar Galactica, Farscape, etc...). 
 * I play guitar and saxophone and can get down to basically any style of music. 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 ## Links
 * <a href="https://www.linkedin.com/in/peoplefocusedleader/">Linkedin</a>
