@@ -1,5 +1,5 @@
 ## About Me
-<img align="left" width="20%" style="margin:10px" src="https://live.staticflickr.com/65535/52576744603_525599bfc0_b.jpg">
+<img align="left" width="20%" style="margin:10px" src="https://farm66.staticflickr.com/65535/52576222531_1a51c23d39_m.jpg">
 
 
 
@@ -17,15 +17,16 @@ Experienced and collaboration focused leader, has worked in the startup world fo
 <!-- add more projects as they are completed -->
 ## Projects I've Contributed to
 * <a href="https://github.com/ClarkDoom/sharmagotchi">Sharmagotchi</a> - my first real application, a quirky pet simulator based off my Shar Pei. <br>
-<img width="20%" src="https://farm66.staticflickr.com/65535/52576498489_dda424e339_m.jpg">
  
 
 ## Non-Work Stuff
+<img style="margin:20px" align='left' src="https://farm66.staticflickr.com/65535/52575766497_79629de5ff_m.jpg">
+
 * I live in South Denver with my longtime partner and we have 2 of the best pups you could ask for!
 * I'm a huge movie buff - some of my favorites are 2001: A Spacy Oddysey, Mulholland Drive, and Mandy.
 * I love all things Star Trek and Trek adjacenet (Stargate, Battlestar Galactica, Farscape, etc...). 
 * I play guitar and saxophone and can get down to basically any style of music. 
-
+<br><br><br><br><br><br><br>
 
 ## Links
 * <a href="https://www.linkedin.com/in/peoplefocusedleader/">Linkedin</a>
